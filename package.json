@@ -15,7 +15,10 @@
   "author": "Lucas Huguet",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/opus": "^0.3.2",
     "discord.js": "^12.2.0",
-    "natural": "^2.1.5"
+    "ffmpeg": "0.0.4",
+    "natural": "^2.1.5",
+    "opusscript": "0.0.7"
   }
 }
